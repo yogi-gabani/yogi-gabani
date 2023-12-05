@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hello World!
 
-<!--
-**yogi-gabani/yogi-gabani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Developer, I am well-versed in the latest industry standards and constantly learning new technologies to improve my skills and stay ahead of the curve.
+Checkout my Linkedin profile - [@yogigabani](https://linkedin.com/in/yogi-gabani-43b173184)
 
-Here are some ideas to get you started:
+I'm just an invite away - yogigabani4@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technologies:
+- Javascript, Typescript, React, Redux, Redux-toolkit, Next.js, Jest for unit/integration testing, familiar with Cypress for automation testing and other frontend libraries.
+
+Also interested in:
+- SEO, Web Security, Backend technologies
+
+Cheers,
+Yogi Gabani.
